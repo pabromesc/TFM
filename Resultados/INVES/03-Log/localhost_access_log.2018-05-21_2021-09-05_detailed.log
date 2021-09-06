@@ -1,0 +1,780 @@
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL-- VUPE
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL-- VUPE
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL-- CuNW
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL-- CuNW
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- TeGG
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- TeGG
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- xNGC
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- xNGC
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- gquG
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- gquG
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- Ujrc
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- Ujrc
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- iQSk
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- iQSk
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- kwlR
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- kwlR
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- EYMn
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- EYMn
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- FXDk
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- FXDk
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL-- OvcL
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL-- OvcL
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL-- HwXV
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL-- HwXV
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL-- UjzT
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL-- UjzT
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL-- akNP
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL-- akNP
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- xgCY
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- xgCY
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- UcgN
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- UcgN
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- HMwK
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- HMwK
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- CEJp
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- CEJp
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- FNZn
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- FNZn
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- KmJF
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- KmJF
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL-- bjTK
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL-- bjTK
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL-- qXot
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL-- qXot
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL-- ZUdE
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL-- ZUdE
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL-- WIkd
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL-- WIkd
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- gLNz
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- gLNz
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- rfeY
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- rfeY
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- siRR
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- siRR
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- CPID
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- CPID
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- lQvj
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- lQvj
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- kiGi
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- kiGi
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL-- RbNo
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL-- RbNo
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL-- gokU
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL-- gokU
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- bvxW
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- bvxW
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- glRf
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- glRf
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- YKPE
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- YKPE
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ymNG
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ymNG
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- WVlZ
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- WVlZ
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- iAcI
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- iAcI
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- LsYa
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- LsYa
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- glVg
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/36949/Ramon, Peral, Arenas y Villarejo, 2014.pdf?sequence=1&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- glVg
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-05T14:51
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/71183/corell.pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:54
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/49961/Annge_miro_2005_amodelassisted.pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:55
+
+URI: /xmlui/bitstream/handle/11441/41441/Uniform%20local%20null%20control%20of%20the%20Leray-%CE%B1%20model.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-05T14:58
+
+URI: /xmlui/bitstream/handle/11441/42584/Grupos%20interactivos.pdf?sequenc%20e=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS netcat command attempt
+Signature identifier: s2b-1360-5
+Timestamp: 2021-09-05T15:08
+
+URI: /xmlui/bitstream/handle/11441/43774/Characterization%20of%20complex%20filiform%20Lie%20algebras%20of%20dimension%200%20according%20to%20whether%20they%20are%20or%20not%20derived%20from%20others.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-05T15:11
+
+URI: /xmlui/bitstream/handle/11441/42381/Two-weight%2C%20weak-type%20norm%20inequalities%20for%20fractional%20integrals%2C%20Calderon-Zygmund%20operators%20and%20commutators.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-05T15:14
+

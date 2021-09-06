@@ -1,0 +1,678 @@
+URI: /xmlui/bitstream/handle/11441/47759/MATRIMONIO%20Y%20BIENESTAR%20SOCIOEMOCIONAL%20Bericat%2004.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC cat%20 access
+Signature identifier: s2b-1147-7
+Timestamp: 2021-09-06T15:23
+
+URI: /xmlui/bitstream/handle/11441/41441/Uniform%20local%20null%20control%20of%20the%20Leray-%CE%B1%20model.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T15:26
+
+URI: /xmlui/bitstream/handle/11441/62510/Long-term%20on-chip.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T15:27
+
+URI: /xmlui/bitstream/handle/11441/62510/Long-term%20on-chip.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T15:27
+
+URI: /xmlui/bitstream/handle/11441/59854/Decrease%20in%20calcitonin%20and%20parathyroid%20hormone%20mRNA%20levels%20and%20hormone%20secretion%20under%20long-term%20hypervitaminosis%20D3%20%20in%20rats.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T15:32
+
+URI: /xmlui/bitstream/handle/11441/58809/Modifications%20in%20the%20distribution%20of%20met-enkephalin%20in%20the%20cat%20spinal%20cord%20after%20administration%20of%20clonidine.%20An%20immunocytochemical%20study.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC cat%20 access
+Signature identifier: s2b-1147-7
+Timestamp: 2021-09-06T15:44
+
+URI: /xmlui/bitstream/handle/11441/58809/Modifications%20in%20the%20distribution%20of%20met-enkephalin%20in%20the%20cat%20spinal%20cord%20after%20administration%20of%20clonidine.%20An%20immunocytochemical%20study.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC cat%20 access
+Signature identifier: s2b-1147-7
+Timestamp: 2021-09-06T15:46
+
+URI: /xmlui/bitstream/handle/11441/41410/P%C3%A1ginas%20desde._ProjectARS_pdf_Ars%20Pharm%2055(supp2).pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T15:50
+
+URI: /xmlui/bitstream/handle/11441/41610/A%20constructive%20method%20to%20determine%20the%20variety%20of%20filiform%20Lie%20algebras.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T15:51
+
+URI: /xmlui/bitstream/handle/11441/38572/On%20the%20practical%20global%20uniform%20asymptotic%20stability%20of%20stochastic%20differential%20equations.pdf;sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL-- acJn
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL-- acJn
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL-- JSna
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL-- JSna
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- ZTof
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- ZTof
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- DpnE
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- DpnE
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- AxyV
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- AxyV
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- hhSr
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- hhSr
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ZEKT
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ZEKT
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- cyDT
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- cyDT
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- YPJD
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- YPJD
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- RjCs
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- RjCs
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:56
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL-- wNzK
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL-- wNzK
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL-- wopT
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL-- wopT
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL-- qYZw
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL-- qYZw
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL-- cghB
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL-- cghB
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- tljH
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- tljH
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- DYmZ
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- DYmZ
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- oRRw
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- oRRw
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- BfPg
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- BfPg
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PBru
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PBru
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL-- dKIb
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL-- dKIb
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL-- GooS
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL-- GooS
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL-- Rkly
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL-- Rkly
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL-- IMGm
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL-- IMGm
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- ZnUp
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- ZnUp
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- nBck
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- nBck
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bRVB
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- bRVB
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- SPlr
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- SPlr
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL-- jFoh
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL-- jFoh
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL-- jFvO
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL-- jFvO
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- xFeh
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- xFeh
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- aGUy
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- aGUy
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- alvB
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- alvB
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ctay
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ctay
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- kxHw
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- kxHw
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rHEW
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rHEW
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Evle
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Evle
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- VQxe
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN%20DE%20TESIS%20DOCTORAL%20(Francisco%20Lucas%20Garc%c3%ada).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- VQxe
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T15:57
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/handle/11441/71316/tesis_VanesaGuerreroLozano.pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T15:59
+
+URI: /xmlui/bitstream/11441/59854/1/Decrease%20in%20calcitonin%20and%20parathyroid%20hormone%20mRNA%20levels%20and%20hormone%20secretion%20under%20long-term%20hypervitaminosis%20D3%20%20in%20rats.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T16:01
+

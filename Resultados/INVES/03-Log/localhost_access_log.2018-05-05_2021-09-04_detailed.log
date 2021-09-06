@@ -1,0 +1,42 @@
+URI: /xmlui/bitstream/handle/11441/60256/Fernandez%20Carrion%20et%20al%20JPCC%202014.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS cc command attempt
+Signature identifier: s2b-1344-5
+Timestamp: 2021-09-04T14:47
+
+URI: /xmlui/bitstream/handle/11441/60256/Fernandez%20Carrion%20et%20al%20JPCC%202014.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS cc command attempt
+Signature identifier: s2b-1344-5
+Timestamp: 2021-09-04T14:47
+
+URI: /xmlui/bitstream/11441/41773/1/Recurrence%20relation%20for%20connection%20coefficients%20between%20q-orthogonal%20polynomials%20of%20discrete%20variables%20in%20the%20non-uniform%20lattice%20X(s)%20=%20q2s.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T14:48
+
+URI: /xmlui/bitstream/handle/11441/41773/Recurrence%20relation%20for%20connection%20coefficients%20between%20q-orthogonal%20polynomials%20of%20discrete%20variables%20in%20the%20non-uniform%20lattice%20X(s)%20=%20q2s.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T14:48
+
+URI: /xmlui/.../Propuestas_pedagogicas_para_educar_las_emociones.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T14:55
+
+URI: /xmlui/bitstream/handle/11441/55085/Smoothed%20number%20of%20extreme%20points%20under%20uniform%20noise.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T14:55
+
+URI: /xmlui/bitstream/handle/11441/54705/Computational%20method%20for%20obtaining%20filiform%20Lie%20algebras%20of%20arbitrary%20dimension.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T14:56
+

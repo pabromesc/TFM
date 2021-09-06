@@ -1,0 +1,160 @@
+localhost_access_log.2018-05-01_2021-09-04:
+Numero de URIs procesadas: 344381
+Numero de URIs detectadas como ataque: 11
+Numero de URIs NO detectadas como ataque: 344370
+
+localhost_access_log.2018-05-02_2021-09-04:
+Numero de URIs procesadas: 582981
+Numero de URIs detectadas como ataque: 43
+Numero de URIs NO detectadas como ataque: 582938
+
+localhost_access_log.2018-05-03_2021-09-04:
+Numero de URIs procesadas: 422174
+Numero de URIs detectadas como ataque: 96
+Numero de URIs NO detectadas como ataque: 422078
+
+localhost_access_log.2018-05-04_2021-09-04:
+Numero de URIs procesadas: 392591
+Numero de URIs detectadas como ataque: 8
+Numero de URIs NO detectadas como ataque: 392583
+
+localhost_access_log.2018-05-05_2021-09-04:
+Numero de URIs procesadas: 291703
+Numero de URIs detectadas como ataque: 7
+Numero de URIs NO detectadas como ataque: 291696
+
+localhost_access_log.2018-05-06_2021-09-04:
+Numero de URIs procesadas: 290078
+Numero de URIs detectadas como ataque: 154
+Numero de URIs NO detectadas como ataque: 289924
+
+localhost_access_log.2018-05-07_2021-09-04:
+Numero de URIs procesadas: 472664
+Numero de URIs detectadas como ataque: 56
+Numero de URIs NO detectadas como ataque: 472608
+
+localhost_access_log.2018-05-08_2021-09-04:
+Numero de URIs procesadas: 463955
+Numero de URIs detectadas como ataque: 18
+Numero de URIs NO detectadas como ataque: 463937
+
+localhost_access_log.2018-05-09_2021-09-04:
+Numero de URIs procesadas: 425452
+Numero de URIs detectadas como ataque: 14
+Numero de URIs NO detectadas como ataque: 425438
+
+localhost_access_log.2018-05-10_2021-09-04:
+Numero de URIs procesadas: 423098
+Numero de URIs detectadas como ataque: 25
+Numero de URIs NO detectadas como ataque: 423073
+
+localhost_access_log.2018-05-11_2021-09-04:
+Numero de URIs procesadas: 473792
+Numero de URIs detectadas como ataque: 84
+Numero de URIs NO detectadas como ataque: 473708
+
+localhost_access_log.2018-05-12_2021-09-04:
+Numero de URIs procesadas: 370698
+Numero de URIs detectadas como ataque: 35
+Numero de URIs NO detectadas como ataque: 370663
+
+localhost_access_log.2018-05-13_2021-09-04:
+Numero de URIs procesadas: 308574
+Numero de URIs detectadas como ataque: 12
+Numero de URIs NO detectadas como ataque: 308562
+
+localhost_access_log.2018-05-14_2021-09-05:
+Numero de URIs procesadas: 397461
+Numero de URIs detectadas como ataque: 110
+Numero de URIs NO detectadas como ataque: 397351
+
+localhost_access_log.2018-05-15_2021-09-05:
+Numero de URIs procesadas: 435843
+Numero de URIs detectadas como ataque: 55
+Numero de URIs NO detectadas como ataque: 435788
+
+localhost_access_log.2018-05-16_2021-09-05:
+Numero de URIs procesadas: 489722
+Numero de URIs detectadas como ataque: 42
+Numero de URIs NO detectadas como ataque: 489680
+
+localhost_access_log.2018-05-17_2021-09-05:
+Numero de URIs procesadas: 434308
+Numero de URIs detectadas como ataque: 8
+Numero de URIs NO detectadas como ataque: 434300
+
+localhost_access_log.2018-05-18_2021-09-05:
+Numero de URIs procesadas: 368685
+Numero de URIs detectadas como ataque: 6
+Numero de URIs NO detectadas como ataque: 368679
+
+localhost_access_log.2018-05-19_2021-09-05:
+Numero de URIs procesadas: 280960
+Numero de URIs detectadas como ataque: 41
+Numero de URIs NO detectadas como ataque: 280919
+
+localhost_access_log.2018-05-20_2021-09-05:
+Numero de URIs procesadas: 291387
+Numero de URIs detectadas como ataque: 75
+Numero de URIs NO detectadas como ataque: 291312
+
+localhost_access_log.2018-05-21_2021-09-05:
+Numero de URIs procesadas: 463168
+Numero de URIs detectadas como ataque: 121
+Numero de URIs NO detectadas como ataque: 463047
+
+localhost_access_log.2018-05-22_2021-09-05:
+Numero de URIs procesadas: 466140
+Numero de URIs detectadas como ataque: 41
+Numero de URIs NO detectadas como ataque: 466099
+
+localhost_access_log.2018-05-23_2021-09-05:
+Numero de URIs procesadas: 408553
+Numero de URIs detectadas como ataque: 52
+Numero de URIs NO detectadas como ataque: 408501
+
+localhost_access_log.2018-05-24_2021-09-05:
+Numero de URIs procesadas: 1673021
+Numero de URIs detectadas como ataque: 34
+Numero de URIs NO detectadas como ataque: 1672987
+
+localhost_access_log.2018-05-25_2021-09-06:
+Numero de URIs procesadas: 533757
+Numero de URIs detectadas como ataque: 8
+Numero de URIs NO detectadas como ataque: 533749
+
+localhost_access_log.2018-05-26_2021-09-06:
+Numero de URIs procesadas: 308496
+Numero de URIs detectadas como ataque: 77
+Numero de URIs NO detectadas como ataque: 308419
+
+localhost_access_log.2018-05-27_2021-09-06:
+Numero de URIs procesadas: 350612
+Numero de URIs detectadas como ataque: 12
+Numero de URIs NO detectadas como ataque: 350600
+
+localhost_access_log.2018-05-28_2021-09-06:
+Numero de URIs procesadas: 601069
+Numero de URIs detectadas como ataque: 89
+Numero de URIs NO detectadas como ataque: 600980
+
+localhost_access_log.2018-05-29_2021-09-06:
+Numero de URIs procesadas: 486822
+Numero de URIs detectadas como ataque: 126
+Numero de URIs NO detectadas como ataque: 486696
+
+localhost_access_log.2018-05-30_2021-09-06:
+Numero de URIs procesadas: 436677
+Numero de URIs detectadas como ataque: 5
+Numero de URIs NO detectadas como ataque: 436672
+
+localhost_access_log.2018-05-31_2021-09-06:
+Numero de URIs procesadas: 462674
+Numero de URIs detectadas como ataque: 225
+Numero de URIs NO detectadas como ataque: 462449
+
+
+TOTAL:
+Numero de URIs procesadas: 14151396
+Numero de URIs detectadas como ataque: 225
+Numero de URIs NO detectadas como ataque: 14151171

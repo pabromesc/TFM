@@ -1,0 +1,48 @@
+URI: /xmlui/bitstream/handle/11441/40490/A%20particle%20swarm%20optimization%20algorithm%20for%20optimal%20car-call%20allocation%20in%20elevator%20group%20control%20systems.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T13:54
+
+URI: /xmlui/bitstream/11441/40490/1/A%20particle%20swarm%20optimization%20algorithm%20for%20optimal%20car-call%20allocation%20in%20elevator%20group%20control%20systems.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T14:01
+
+URI: /xmlui/bitstream/handle/11441/60256/Fernandez%20Carrion%20et%20al%20JPCC%202014.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS cc command attempt
+Signature identifier: s2b-1344-5
+Timestamp: 2021-09-06T14:05
+
+URI: /xmlui/bitstream/handle/11441/60256/Fernandez%20Carrion%20et%20al%20JPCC%202014.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS cc command attempt
+Signature identifier: s2b-1344-5
+Timestamp: 2021-09-06T14:05
+
+URI: /xmlui/bitstream/handle/11441/69357/Art%C3%ADculos%20Pilar%20Ostos%20Autografos%20de%20Cervantes-3%C2%BA%20correcc%20-1-28.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS cc command attempt
+Signature identifier: s2b-1344-5
+Timestamp: 2021-09-06T14:07
+
+URI: /xmlui/bitstream/handle/11441/34597/._ProjectARS_pdf_Ars%20Pharm%2056%282%29_77-87-hol.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T14:10
+
+URI: /xmlui/bitstream/handle/11441/62510/Long-term%20on-chip.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T14:11
+
+URI: /xmlui/bitstream/handle/11441/62510/Long-term%20on-chip.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T14:11
+

@@ -1,0 +1,5 @@
+0days_2021-09-04:
+Numero de URIs procesadas: 419
+Numero de URIs detectadas como ataque: 241
+Numero de URIs NO detectadas como ataque: 178
+

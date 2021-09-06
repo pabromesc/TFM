@@ -1,0 +1,1146 @@
+URI: /xmlui/bitstream/handle/11441/47759/MATRIMONIO%20Y%20BIENESTAR%20SOCIOEMOCIONAL%20Bericat%2004.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC cat%20 access
+Signature identifier: s2b-1147-7
+Timestamp: 2021-09-04T13:31
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1);SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(112)||CHR(112)||CHR(80)||CHR(117),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1);SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(112)||CHR(112)||CHR(80)||CHR(117),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(112)||CHR(112)||CHR(80)||CHR(117),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(112)||CHR(112)||CHR(80)||CHR(117),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(112)||CHR(112)||CHR(80)||CHR(117),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(112)||CHR(112)||CHR(80)||CHR(117),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(112)||CHR(112)||CHR(80)||CHR(117),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(112)||CHR(112)||CHR(80)||CHR(117),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(112)||CHR(112)||CHR(80)||CHR(117),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(112)||CHR(112)||CHR(80)||CHR(117),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL-- Vjmu
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL-- Vjmu
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL-- NNqK
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL-- NNqK
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL-- IsMo
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL-- IsMo
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- LVGF
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- LVGF
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- OFWD
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- OFWD
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- JmFx
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- JmFx
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- LUPn
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- LUPn
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zaJH
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zaJH
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- NXDG
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- NXDG
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- vqfn
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- vqfn
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL-- HxQi
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL-- HxQi
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL-- EgUK
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL-- EgUK
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL-- qlSt
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL-- qlSt
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- UEDi
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- UEDi
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- xbai
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- xbai
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- AfPG
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- AfPG
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- hTNo
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- hTNo
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- msjn
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- msjn
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- mqeY
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- mqeY
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- XLFo
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- XLFo
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL-- dfbo
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL-- dfbo
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL-- lgOt
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL-- lgOt
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL-- fkiB
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL-- fkiB
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL-- vlza
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL-- vlza
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- MgYy
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- MgYy
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- yBaW
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- yBaW
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Brvo
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Brvo
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- dSRL
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- dSRL
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- xPvU
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- xPvU
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- GUdy
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- GUdy
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL-- xGMC
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL-- xGMC
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL-- wPTw
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL-- wPTw
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL-- IuNx
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL-- IuNx
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL-- zzZn
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL-- zzZn
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- ueUu
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- ueUu
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- nQxz
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- nQxz
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- vCtH
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- vCtH
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JJUJ
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JJUJ
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Pzqx
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Pzqx
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PVDg
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/43507/TFG videojuegos.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PVDg
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:36
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL-- NBbB
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL-- NBbB
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL-- NuDK
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL-- NuDK
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- EWxf
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- EWxf
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- lRyT
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- lRyT
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- gymV
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- gymV
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- kGKD
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- kGKD
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- OqPk
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- OqPk
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- sIMZ
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- sIMZ
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IUFM
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IUFM
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Jmkl
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Jmkl
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL-- TJQl
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL-- TJQl
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL-- DmhY
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL-- DmhY
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL-- rpuK
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL-- rpuK
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL-- hbvd
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL-- hbvd
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- JWcI
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- JWcI
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ENGe
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- ENGe
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ZjZS
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ZjZS
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- sUEQ
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- sUEQ
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JIhf
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JIhf
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JSyd
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JSyd
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL-- iAkp
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL-- iAkp
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL-- mwmP
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL-- mwmP
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL-- LgVX
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL-- LgVX
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL-- vESt
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL-- vESt
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- zByh
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- zByh
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- zoxy
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- zoxy
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zTUa
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zTUa
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- boca
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- boca
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- izgL
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- izgL
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- cpsj
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- cpsj
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL-- yPUl
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL-- yPUl
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL-- IOgk
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL-- IOgk
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- CqDT
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL-- CqDT
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- uXvh
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL-- uXvh
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- wrCd
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- wrCd
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- iGgu
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- iGgu
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- fOBb
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- fOBb
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Zchd
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- Zchd
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- FNqR
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- FNqR
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- mMGX
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+
+URI: /xmlui/bitstream/handle/11441/29759/RESUMEN DE TESIS DOCTORAL (Francisco Lucas Garcia).pdf?sequence=2&isAllowed=y UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- mMGX
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-04T13:42
+

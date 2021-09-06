@@ -1,0 +1,138 @@
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/16134/file_1%20(3).pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-05T14:02
+
+URI: /xmlui/bitstream/handle/11441/64476/Zinc%20tolerance.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS netcat command attempt
+Signature identifier: s2b-1360-5
+Timestamp: 2021-09-05T14:04
+
+URI: /xmlui/bitstream/handle/11441/40490/A%20particle%20swarm%20optimization%20algorithm%20for%20optimal%20car-call%20allocation%20in%20elevator%20group%20control%20systems.pdf;sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-05T14:06
+
+URI: /xmlui/bitstream/handle/11441/41189/On%20the%20contrallability%20of%20parabolic%20systems%20with%20a%20nonlinear%20term%20involving%20the%20state%20and%20the%20gradient.pdf;sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-05T14:13
+
+URI: /xmlui/bitstream/handle/11441/47759/MATRIMONIO%20Y%20BIENESTAR%20SOCIOEMOCIONAL%20Bericat%2004.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC cat%20 access
+Signature identifier: s2b-1147-7
+Timestamp: 2021-09-05T14:16
+
+URI: /xmlui/bitstream/11441/41189/1/On%20the%20contrallability%20of%20parabolic%20systems%20with%20a%20nonlinear%20term%20involving%20the%20state%20and%20the%20gradient.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-05T14:17
+

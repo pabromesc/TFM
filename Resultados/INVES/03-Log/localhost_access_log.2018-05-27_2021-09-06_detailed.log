@@ -1,0 +1,72 @@
+URI: /xmlui/bitstream/handle/.../TFG
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T14:50
+
+URI: /xmlui/bitstream/11441/74156/1/Constant%20rate%20thermal%20analysis%20for%20enhancing%20the%20long-term%20CO2.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T14:52
+
+URI: /xmlui/bitstream/handle/11441/74156/Constant%20rate%20thermal%20analysis%20for%20enhancing%20the%20long-term%20CO2.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T14:52
+
+URI: /xmlui/.../Tesis
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T14:52
+
+URI: /xmlui/bitstream/handle/11441/54863/Galhena-%20E-HRM%20adoption.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T14:53
+
+URI: /xmlui/bitstream/handle/11441/54863/Galhena-%20E-HRM%20adoption.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T14:54
+
+URI: /xmlui/bitstream/11441/74156/1/Constant%20rate%20thermal%20analysis%20for%20enhancing%20the%20long-term%20CO2.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T14:55
+
+URI: /xmlui/bitstream/handle/11441/74156/Constant%20rate%20thermal%20analysis%20for%20enhancing%20the%20long-term%20CO2.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T14:55
+
+URI: /xmlui/bitstream/handle/11441/34597/._ProjectARS_pdf_Ars%20Pharm%2056%282%29_77-87-hol.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T14:56
+
+URI: /xmlui/bitstream/handle/11441/47759/MATRIMONIO%20Y%20BIENESTAR%20SOCIOEMOCIONAL%20Bericat%2004.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC cat%20 access
+Signature identifier: s2b-1147-7
+Timestamp: 2021-09-06T15:00
+
+URI: /xmlui/bitstream/handle/11441/60256/Fernandez%20Carrion%20et%20al%20JPCC%202014.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS cc command attempt
+Signature identifier: s2b-1344-5
+Timestamp: 2021-09-06T15:02
+
+URI: /xmlui/bitstream/handle/11441/60256/Fernandez%20Carrion%20et%20al%20JPCC%202014.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS cc command attempt
+Signature identifier: s2b-1344-5
+Timestamp: 2021-09-06T15:02
+

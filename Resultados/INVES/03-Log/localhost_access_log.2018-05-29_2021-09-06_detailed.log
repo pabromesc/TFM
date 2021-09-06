@@ -1,0 +1,840 @@
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/15946/K_Tesis-PROV21.pdf?sequence=-1&isAllowed=../../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:15
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:21
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:21
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:21
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:22
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:22
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:22
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:22
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:22
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:22
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:22
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:22
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:22
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1);SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(77)||CHR(120)||CHR(108),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1);SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(77)||CHR(120)||CHR(108),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(77)||CHR(120)||CHR(108),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(77)||CHR(120)||CHR(108),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(77)||CHR(120)||CHR(108),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(85)||CHR(77)||CHR(120)||CHR(108),5) FROM DUAL--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL-- asue
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL-- asue
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL-- pkzc
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL-- pkzc
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL-- XBKe
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL-- XBKe
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- VkZD
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- VkZD
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- sxby
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- sxby
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- YRUc
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- YRUc
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- DTyH
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- DTyH
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- iMBg
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- iMBg
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- kJuc
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- kJuc
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- GoJw
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- GoJw
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL-- Hwya
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL-- Hwya
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL-- ShTJ
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL-- ShTJ
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL-- gioJ
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL-- gioJ
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- rrzv
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- rrzv
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- xVVf
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- xVVf
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- xZPH
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- xZPH
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- DHPK
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- DHPK
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- VXag
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- VXag
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- lyzP
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- lyzP
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- DSUH
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- DSUH
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL-- pskN
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL-- pskN
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL-- UMlH
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL-- UMlH
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL-- JAJw
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL-- JAJw
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL-- jyXa
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL-- jyXa
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- rLMY
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- rLMY
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- njjQ
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- njjQ
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- CnGu
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- CnGu
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ugtr
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ugtr
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rZOD
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rZOD
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- sImn
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- sImn
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL-- CDhX
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL-- CDhX
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL-- OtIz
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL-- OtIz
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL-- Pkdf
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL-- Pkdf
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL-- OezK
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL-- OezK
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- HMGK
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- HMGK
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- MzwC
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- MzwC
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- fnPt
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- fnPt
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- gxxn
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- gxxn
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JpUU
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JpUU
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- NgnQ
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/30796/Pages from lamujerenelespejomediatico_1-6.pdf?sequence=1%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- NgnQ
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/74637/TESIS%20NICOMEDES%20RODRIGUEZ%20GUTIERREZ%20%20ATENTADO,%20RESISTENCIA%20Y%20DESOBEDIENCIA%20A%20LA%20AUTORIDAD%20Y%20FUNCIONARIOS.pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-06T16:23
+
+URI: /xmlui/bitstream/handle/11441/42381/Two-weight%2C%20weak-type%20norm%20inequalities%20for%20fractional%20integrals%2C%20Calderon-Zygmund%20operators%20and%20commutators.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T16:30
+
+URI: /xmlui/bitstream/handle/11441/42335/Two%20weighted%20norm%20inequalities%20for%20Riesz%20potentials%20and%20uniform%20LpLp--weigthed%20Sobolev%20inequalities.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T16:30
+
+URI: /xmlui/bitstream/handle/11441/28554/Robert%20Venturi,%20Denise%20Scott%20Brown%20y%20Steven%20Izenour%20Learning%20form%20Las%20Vegas.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T16:31
+
+URI: /xmlui/bitstream/handle/11441/28554/Robert%20Venturi,%20Denise%20Scott%20Brown%20y%20Steven%20Izenour%20Learning%20form%20Las%20Vegas.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T16:31
+
+URI: /xmlui/bitstream/handle/11441/42584/Grupos%20interactivos.pdf?sequenc%20e=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS netcat command attempt
+Signature identifier: s2b-1360-5
+Timestamp: 2021-09-06T16:31
+
+URI: /xmlui/bitstream/handle/11441/34597/._ProjectARS_pdf_Ars%20Pharm%2056%282%29_77-87-hol.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-06T16:38
+
+URI: /xmlui/bitstream/11441/58809/1/Modifications%20in%20the%20distribution%20of%20met-enkephalin%20in%20the%20cat%20spinal%20cord%20after%20administration%20of%20clonidine.%20An%20immunocytochemical%20study.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC cat%20 access
+Signature identifier: s2b-1147-7
+Timestamp: 2021-09-06T16:41
+
+URI: /xmlui/bitstream/handle/11441/47759/MATRIMONIO%20Y%20BIENESTAR%20SOCIOEMOCIONAL%20Bericat%2004.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC cat%20 access
+Signature identifier: s2b-1147-7
+Timestamp: 2021-09-06T16:45
+

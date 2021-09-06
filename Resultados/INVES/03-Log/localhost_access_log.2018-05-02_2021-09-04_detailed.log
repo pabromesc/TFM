@@ -1,0 +1,174 @@
+URI: /xmlui/bitstream/handle/11441/47961/Isomorphism%20and%20isotopism%20classes%20of%20filiform%20Lie%20algebras%20of%20dimension%20up%20to%20seven.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T12:33
+
+URI: /xmlui/bitstream/handle/11441/62510/Long-term%20on-chip.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T12:39
+
+URI: /xmlui/bitstream/handle/11441/62510/Long-term%20on-chip.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T12:39
+
+URI: /xmlui/bitstream/handle/11441/47253/Weighted%20norm%20inequalities%20for%20singular%20integral%20operators.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T12:41
+
+URI: /xmlui/bitstream/handle/11441/38572/On%20the%20practical%20global%20uniform%20asymptotic%20stability%20of%20stochastic%20differential%20equations.pdf;sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T12:43
+
+URI: /xmlui/bitstream/handle/11441/42074/A%20comparison%20of%20three%20turbulence%20models%20with%20an%20application%20to%20the%20West%20Pacific%20Warm%20Pool.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T12:45
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:52
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:52
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:52
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:53
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:53
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:53
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:54
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:54
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:54
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:54
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:54
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:55
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:55
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:56
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:56
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:57
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:57
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:58
+
+URI: /xmlui/bitstream/handle/11441/65324/TFG%20Javier%20del%20Pino%20Silva.pdf?sequence=1&isAllowed=../../../../../../../../../etc/passwd%00
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-04T12:59
+
+URI: /xmlui/bitstream/handle/11441/28554/Robert%20Venturi%2C%20Denise%20Scott%20Brown%20y%20Steven%20Izenour%20Learning%20form%20Las%20Vegas.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T13:01
+
+URI: /xmlui/bitstream/handle/11441/38572/On%20the%20practical%20global%20uniform%20asymptotic%20stability%20of%20stochastic%20differential%20equations.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T13:05
+
+URI: /xmlui/bitstream/handle/11441/47961/Isomorphism%20and%20isotopism%20classes%20of%20filiform%20Lie%20algebras%20of%20dimension%20up%20to%20seven.pdf?sequence=1
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T13:07
+
+URI: /xmlui/bitstream/handle/11441/47289/Sharp%20two-weight%20inequalities%20for%20singular%20integrals%2C%20with%20applications%20to%20the%20Hilbert%20transform%20and%20the%20Sarason%20conjecture.pdf?sequence=1&isAllowed=y
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-04T13:08
+
