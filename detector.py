@@ -54,7 +54,7 @@ if __name__ == '__main__':
 
                     # Convertimos las URIs a un formato común que nos permita establecer similitudes 
                     # entre las URIs proporcionadas y las registradas como ataques por Zeek
-                    processed_uri_time_file = urllib.parse.unquote(uri_time_file).strip()
+                    processed_uri_time_file = urllib.parse.unquote(urllib.parse.unquote(uri_time_file).strip())
                     
                     Nattacks = 0
                     id_signature = ""
