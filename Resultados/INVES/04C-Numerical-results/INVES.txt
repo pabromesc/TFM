@@ -156,5 +156,5 @@ Numero de URIs NO detectadas como ataque: 462449
 
 TOTAL:
 Numero de URIs procesadas: 14151396
-Numero de URIs detectadas como ataque: 225
-Numero de URIs NO detectadas como ataque: 14151171
+Numero de URIs detectadas como ataque: 1690
+Numero de URIs NO detectadas como ataque: 14149706
