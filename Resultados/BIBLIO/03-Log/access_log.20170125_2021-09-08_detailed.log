@@ -1,0 +1,12 @@
+URI: /index.php?m=Goods&a=showcate&id=103 and extractvalue(1, concat(0x7e,(SELECT distinct concat(0x23,adm_name,0x3a,adm_pwd,0x23) FROM fanwe_admin limit 0,1)))
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-08T12:33
+
+URI: /index.php?m=Goods&a=showcate&id=103 and extractvalue(1, concat(0x7e,(SELECT distinct concat(0x23,adm_name,0x3a,adm_pwd,0x23) FROM fanwe_admin limit 0,1)))
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-08T12:33
+

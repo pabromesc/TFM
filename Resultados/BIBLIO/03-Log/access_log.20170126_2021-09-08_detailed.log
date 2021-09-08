@@ -1,0 +1,12 @@
+URI: /search/node/Enferm%20Clin%202016
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-08T13:05
+
+URI: /search/node/Enferm%20Clin
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-ATTACKS rm command attempt
+Signature identifier: s2b-1365-5
+Timestamp: 2021-09-08T13:05
+
