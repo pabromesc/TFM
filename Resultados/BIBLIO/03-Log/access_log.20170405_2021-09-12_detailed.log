@@ -1,0 +1,144 @@
+URI: /node?page=1 UNION ALL SELECT NULL-- cdBr
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL-- cdBr
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL-- ooUN
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL-- ooUN
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL-- kgmT
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL-- kgmT
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- XTso
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL-- XTso
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- faSl
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- faSl
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- gvqb
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- gvqb
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zzYr
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zzYr
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- nxdo
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- nxdo
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IOnj
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- IOnj
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- TuiF
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- TuiF
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL-- hPrB
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL-- hPrB
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL-- ZwLl
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
+URI: /node?page=1 UNION ALL SELECT NULL,NULL-- ZwLl
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-12T19:03
+
