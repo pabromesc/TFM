@@ -1,0 +1,12 @@
+URI: /ingenieros/.../ppt/Taller_Herramientas_Web_2_0_1_sesion.ppt
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:16
+
+URI: /admin.php
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-PHP admin.php access
+Signature identifier: s2b-1301-11
+Timestamp: 2021-09-14T16:20
+

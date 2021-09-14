@@ -1,0 +1,6 @@
+URI: /admin.php
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-PHP admin.php access
+Signature identifier: s2b-1301-11
+Timestamp: 2021-09-14T15:49
+

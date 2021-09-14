@@ -1,0 +1,12 @@
+URI: /.DS_Store
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC .DS_Store access
+Signature identifier: s2b-1769-3
+Timestamp: 2021-09-14T15:34
+
+URI: /.....F0C4
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC /.... access
+Signature identifier: s2b-1142-5
+Timestamp: 2021-09-14T15:34
+
