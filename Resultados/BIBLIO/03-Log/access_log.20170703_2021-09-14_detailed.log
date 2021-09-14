@@ -1,0 +1,18 @@
+URI: /turismo/.../files/novfebrero2015.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T19:16
+
+URI: /wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T19:17
+
+URI: /wp-admin/admin-ajax.php?action=showbiz_show_image&img=../wp-config.php
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T19:17
+

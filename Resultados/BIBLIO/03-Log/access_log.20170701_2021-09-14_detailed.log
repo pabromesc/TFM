@@ -1,0 +1,150 @@
+URI: /turismo/.../files/novfebrero2015.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T19:12
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc);SELECT SLEEP(5)#
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc);SELECT SLEEP(5)#
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc;SELECT SLEEP(5)#
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc;SELECT SLEEP(5)#
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc');SELECT SLEEP(5)#
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc');SELECT SLEEP(5)#
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc';SELECT SLEEP(5)#
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc';SELECT SLEEP(5)#
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc%';SELECT SLEEP(5)#
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc%';SELECT SLEEP(5)#
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc);SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc;SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc');SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc%';SELECT PG_SLEEP(5)--
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc AND 8387=(SELECT 8387 FROM PG_SLEEP(5))
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc AND 8387=(SELECT 8387 FROM PG_SLEEP(5))
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc' AND 8387=(SELECT 8387 FROM PG_SLEEP(5)) AND 'uZel'='uZel
+Type: HTTP::SQL_Injection_Attacker
+Message: An SQL injection attacker was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+
+URI: /sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc' AND 8387=(SELECT 8387 FROM PG_SLEEP(5)) AND 'uZel'='uZel
+Type: HTTP::SQL_Injection_Victim
+Message: An SQL injection victim was discovered!
+Signature identifier: script-HTTP::URI_SQLI
+Timestamp: 2021-09-14T19:13
+

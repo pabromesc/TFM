@@ -1,0 +1,4 @@
+Packet [3325]	Uri [/static/js/tiny_mce/plugins/tinybrowser/upload.php?type=file/wp-login.php]	 Nattacks [2]	[s2b-2077-2]	[s2b-2077-2]
+Packet [3327]	Uri [/admin/lib/tiny_mce/plugins/tinybrowser/upload.php?type=file/wp-login.php]	 Nattacks [2]	[s2b-2077-2]	[s2b-2077-2]
+Packet [3328]	Uri [/tiny_mce/plugins/tinybrowser/upload.php?type=file/wp-login.php]	 Nattacks [1]	[s2b-2077-2]
+Packet [3329]	Uri [/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php?type=file/wp-login.php]	 Nattacks [2]	[s2b-2077-2]	[s2b-2077-2]

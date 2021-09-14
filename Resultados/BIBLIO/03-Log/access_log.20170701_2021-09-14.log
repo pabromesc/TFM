@@ -1,0 +1,25 @@
+2021-09-14T19:12	/turismo/.../files/novfebrero2015.pdf	s2b-1113-5
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc);SELECT SLEEP(5)#	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc);SELECT SLEEP(5)#	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc;SELECT SLEEP(5)#	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc;SELECT SLEEP(5)#	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc');SELECT SLEEP(5)#	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc');SELECT SLEEP(5)#	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc';SELECT SLEEP(5)#	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc';SELECT SLEEP(5)#	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc%';SELECT SLEEP(5)#	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc%';SELECT SLEEP(5)#	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc);SELECT PG_SLEEP(5)--	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc);SELECT PG_SLEEP(5)--	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc;SELECT PG_SLEEP(5)--	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc;SELECT PG_SLEEP(5)--	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc');SELECT PG_SLEEP(5)--	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc');SELECT PG_SLEEP(5)--	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc';SELECT PG_SLEEP(5)--	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc';SELECT PG_SLEEP(5)--	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc%';SELECT PG_SLEEP(5)--	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc%';SELECT PG_SLEEP(5)--	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc AND 8387=(SELECT 8387 FROM PG_SLEEP(5))	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc AND 8387=(SELECT 8387 FROM PG_SLEEP(5))	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc' AND 8387=(SELECT 8387 FROM PG_SLEEP(5)) AND 'uZel'='uZel	script-HTTP::URI_SQLI
+2021-09-14T19:13	/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc' AND 8387=(SELECT 8387 FROM PG_SLEEP(5)) AND 'uZel'='uZel	script-HTTP::URI_SQLI
