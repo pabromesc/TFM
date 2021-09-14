@@ -1,0 +1,12 @@
+URI: /plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php?type=file&folder=
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-PHP Mambo upload.php access
+Signature identifier: s2b-2077-2
+Timestamp: 2021-09-14T16:36
+
+URI: /busca_y_encuentra/cat%20
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC cat%20 access
+Signature identifier: s2b-1147-7
+Timestamp: 2021-09-14T16:36
+

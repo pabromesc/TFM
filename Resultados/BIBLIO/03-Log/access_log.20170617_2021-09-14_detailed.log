@@ -1,0 +1,12 @@
+URI: /turismo/.../files/novoctubre2016.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T18:22
+
+URI: /guias/articulos.asp.
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-IIS asp-dot attempt
+Signature identifier: s2b-997-6
+Timestamp: 2021-09-14T18:22
+

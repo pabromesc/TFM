@@ -1,0 +1,36 @@
+URI: /plus/backup.php
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC backup access
+Signature identifier: s2b-1213-5
+Timestamp: 2021-09-14T16:40
+
+URI: /admin.php/module/action/param1/${@eval($_POST[c])}
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-PHP admin.php access
+Signature identifier: s2b-1301-11
+Timestamp: 2021-09-14T16:40
+
+URI: /admin.php/module/action/param1/${@eval($_POST[c])}
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-PHP admin.php access
+Signature identifier: s2b-1301-11
+Timestamp: 2021-09-14T16:40
+
+URI: /admin.php/module/action/param1/${@eval($_POST[c])}
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-PHP admin.php access
+Signature identifier: s2b-1301-11
+Timestamp: 2021-09-14T16:40
+
+URI: /incdata/admin_inc.asp.asp
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-IIS asp-dot attempt
+Signature identifier: s2b-997-6
+Timestamp: 2021-09-14T16:40
+
+URI: /bellasartes/sites/.../mendeleytutorial2015_2_1.pdf
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:40
+

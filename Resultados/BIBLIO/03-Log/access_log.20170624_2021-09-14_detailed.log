@@ -1,0 +1,6 @@
+URI: /fckeditor/editor/filemanager/connectors/php/upload.php?Type=Media
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-PHP Mambo upload.php access
+Signature identifier: s2b-2077-2
+Timestamp: 2021-09-14T18:57
+

@@ -1,0 +1,6 @@
+Packet [10956]	Uri [/plus/backup.php]	 Nattacks [1]	[s2b-1213-5]
+Packet [11067]	Uri [/admin.php/module/action/param1/$%7B@eval($_POST%5Bc%5D)%7D]	 Nattacks [3]	[s2b-1301-11]	[s2b-1301-11]	[s2b-1301-11]
+Packet [11067]	Uri [/admin.php/module/action/param1/$%7B@eval($_POST%5Bc%5D)%7D]	 Nattacks [3]	[s2b-1301-11]	[s2b-1301-11]	[s2b-1301-11]
+Packet [11067]	Uri [/admin.php/module/action/param1/$%7B@eval($_POST%5Bc%5D)%7D]	 Nattacks [3]	[s2b-1301-11]	[s2b-1301-11]	[s2b-1301-11]
+Packet [12999]	Uri [/incdata/admin_inc.asp.asp]	 Nattacks [1]	[s2b-997-6]
+Packet [16045]	Uri [/bellasartes/sites/.../mendeleytutorial2015_2_1.pdf]	 Nattacks [1]	[s2b-1113-5]

