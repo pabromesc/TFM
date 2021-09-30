@@ -1,0 +1,5 @@
+osvdb_2021-09-30:
+Numero de URIs procesadas: 6896
+Numero de URIs detectadas como ataque: 2052
+Numero de URIs NO detectadas como ataque: 4844
+

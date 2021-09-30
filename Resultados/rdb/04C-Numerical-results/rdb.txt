@@ -1,0 +1,5 @@
+rdb_2021-09-30:
+Numero de URIs procesadas: 933
+Numero de URIs detectadas como ataque: 606
+Numero de URIs NO detectadas como ataque: 327
+

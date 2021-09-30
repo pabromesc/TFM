@@ -1,0 +1,5 @@
+ataques-1100_2021-09-30:
+Numero de URIs procesadas: 1177
+Numero de URIs detectadas como ataque: 778
+Numero de URIs NO detectadas como ataque: 399
+

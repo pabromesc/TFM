@@ -1,0 +1,5 @@
+ataques-800_2021-09-30:
+Numero de URIs procesadas: 833
+Numero de URIs detectadas como ataque: 530
+Numero de URIs NO detectadas como ataque: 303
+

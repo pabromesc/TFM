@@ -1,0 +1,5 @@
+Fwaf-2200_2021-09-30:
+Numero de URIs procesadas: 2063
+Numero de URIs detectadas como ataque: 612
+Numero de URIs NO detectadas como ataque: 1451
+
